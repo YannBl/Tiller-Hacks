@@ -1,3 +1,6 @@
+// How To Use:
+// Follow instructions here: https://community.tillerhq.com/t/track-the-value-of-your-home-via-a-zillow-script/187
+
 function zestimateFetch(zwsid, zpid) {
   
   var url = "https://www.zillow.com/homes/" + zpid + "_zpid/";
